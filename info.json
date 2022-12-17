@@ -1,0 +1,13 @@
+{
+    "name":"Techview",
+    "yearofstart": 2017,
+    "verified" :true,
+    "bestvideo" :["abc","vfv"],
+    "camerainfo":{
+        "type":"DSLR",
+        "resolution":"12p",
+        "lens":"50mm"
+    }
+
+
+}
